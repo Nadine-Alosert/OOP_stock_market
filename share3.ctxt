@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=share3
+comment0.text=\r\n\ \ \ A\ subclass\ that\ has\ inherited\ \r\n\ \ \ methods\ and\ variables\ from\r\n\ \ \ its\ superclass\ investment\r\n\ \ \ Some\ methods\ will\ be\ \r\n\ \ \ overrriden\r\n
+comment1.params=name\ sym\ v\ o\ c\ eps\ ncp
+comment1.target=share3(java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ double,\ double)
+comment2.params=i
+comment2.target=int\ volumeChange(int)
+comment3.params=i
+comment3.target=double\ openPriceChange(int)
+comment4.params=i
+comment4.target=double\ closePriceChange(int)
+comment5.params=i
+comment5.target=double\ EPSChange(int)
+numComments=6
